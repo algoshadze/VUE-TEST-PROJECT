@@ -28,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Warning
+
+There are many packages in this project, that not in use, because initially i used the wrong instruments

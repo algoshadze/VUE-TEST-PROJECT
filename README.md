@@ -3,6 +3,12 @@
 ## Project setup
 ```
 npm install
+
+
+(if didn't install automatically)
+npm install -g @vue\cli 
+npm install qulp
+
 ```
 
 ### Compiles and hot-reloads for development
